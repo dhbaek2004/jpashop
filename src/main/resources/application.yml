@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:tcp://localhost/D:/h2/h2;MVCC=TRUE
+    url: jdbc:h2:tcp://localhost/D:/h2db/h2db;MVCC=TRUE
     username: sa
     password:
     driver-class-name: org.h2.Driver
